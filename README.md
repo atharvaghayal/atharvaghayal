@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Atharva Ghayal!
 
-<!--
-**atharvaghayal/atharvaghayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🎓 Aspiring B.tech Engineer  
+- 🌱 Currently exploring **Artificial intelligence and Data Science** and working on various tech projects  
+- 🛠️ Skilled in Basic Java and Python Programming.
+- 💼 Portfolio: [under development...]  
 
-Here are some ideas to get you started:
+🛠️ Skills
+- Programming Languages: Python, Java, HTML, CSS.
+- Areas of Expertise: DSA, Web Development, Software Engineering,Artificial Intelligence, DBMS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Personal Interests
+- Passionate about learning new technologies and building innovative projects.
+- Enjoy playing chess, traveling, photography, trekking.
+
+
+### 📫 Connect with Me
+- [Instagram](instagram.com/_atharvaghayal)
+- [LinkedIn](linkedin.com/in/atharva-ghayal)
+- [gmail](atharva160504@gmail.com)
