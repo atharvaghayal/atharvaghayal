@@ -17,5 +17,5 @@
 
 ### 📫 Connect with Me
 - [Instagram](instagram.com/_atharvaghayal)
-- [LinkedIn](linkedin.com/in/atharva-ghayal)
+- [LinkedIn]([linkedin.com/in/atharva-ghayal](https://www.linkedin.com/in/atharva-ghayal/))
 - [gmail](atharva160504@gmail.com)
