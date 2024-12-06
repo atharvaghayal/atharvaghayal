@@ -6,11 +6,11 @@
 - 🛠️ Skilled in Basic Java and Python Programming.
 - 💼 Portfolio: [under development...]  
 
-🛠️ Skills...
+### 🛠️ Skills...
 - Programming Languages: Python, Java, HTML, CSS.
 - Areas of Expertise: DSA, Web Development, Software Engineering,Artificial Intelligence, DBMS.
 
-🌱 Personal Interests...
+### 🌱 Personal Interests...
 - Passionate about learning new technologies and building innovative projects.
 - Enjoy playing chess, traveling, photography, trekking.
 
