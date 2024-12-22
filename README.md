@@ -82,7 +82,7 @@
 </p>
 <br>
 <p align="left">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=atharvaghayal&date_start=2024-12-01&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=atharvaghayal&date_start=2023-12-01">
 </p>
 
 <p align="left">
