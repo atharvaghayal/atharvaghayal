@@ -15,6 +15,7 @@
 - ☕ Java Programming.
 <h2>🛠️ Hobbies</h2>
 <ul>
+  <li>Chess ♚♞♕</li>
   <li>Writing travel blogs and documenting experiences.</li>
   <li>Learning animation for interactive web designs.</li>
   <li>Exploring farmhouse stays and outdoor adventures.</li>
