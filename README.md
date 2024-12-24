@@ -17,7 +17,6 @@
 <ul>
   <li>Chess ♚♞♕</li>
   <li>Writing travel blogs and documenting experiences.</li>
-  <li>Learning animation for interactive web designs.</li>
   <li>Exploring farmhouse stays and outdoor adventures.</li>
 </ul>
 <h2>📁 My Projects</h2>
@@ -85,7 +84,7 @@
 <p align="left">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=atharvaghayal&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-
+<br>
 <p align="left">
   <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaghayal&size_weight=0.15&count_weight=0.5&layout=compact&theme=tokyonight">
 </p>
