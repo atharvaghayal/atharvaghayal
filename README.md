@@ -2,8 +2,8 @@
 <h3 align="left">Aspiring B.tech Engineer in field of AI and Data Science.</h3>
 <p>House in Panvel,Raigad,MH</p>
 <h2>  &nbsp;My Interests...</h2>
-<p>Learning Advanced Python.</p>
-<p>how AI is used in Data science.</p>
+<p>In learning Advanced Python.</p>
+<p>In how AI is used in Data science.</p>
 
 
 - 🔭 I’m currently working on my **[portfolio](https://github.com/atharvaghayal/portfolio)** site.
@@ -25,7 +25,6 @@
   <li>Budget Tracker using ML algorithms</li>
   <li>number guessing game using MS excel.</li>
   <li>portfolio site(under development)</li>
-  <li>cloud storage android application(under development)</li>
 </ul>
 <h2>📁 Collaborated Projects</h2>
 <ul>
