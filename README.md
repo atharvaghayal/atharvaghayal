@@ -1,5 +1,4 @@
 ![Header GIF](Header.gif)
-<h1 align="left">👋 Atharva Ghayal</h1>
 <h3 align="left">Aspiring B.tech Engineer in field of AI and Data Science.</h3>
 <p>Live in Panvel,Raigad,MH</p>
 <h2>  &nbsp;My Interests...</h2>
