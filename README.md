@@ -1,6 +1,6 @@
 <h1 align="left">👋 Atharva Ghayal</h1>
 <h3 align="left">Aspiring B.tech Engineer in field of AI and Data Science.</h3>
-<p>House in Panvel,Raigad,MH</p>
+<p>Live in Panvel,Raigad,MH</p>
 <h2>  &nbsp;My Interests...</h2>
 <p>In learning Advanced Python.</p>
 <p>In how AI is used in Data science.</p>
