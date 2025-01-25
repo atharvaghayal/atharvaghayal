@@ -3,7 +3,6 @@
 <p>Live in Panvel,Raigad,MH</p>
 <h2>  &nbsp;My Interests...</h2>
 <p>In learning Advanced Python.</p>
-<p>In how AI is used in Data science.</p>
 
 
 - 🔭 I’m currently working on my **[portfolio](https://github.com/atharvaghayal/portfolio)** site.
@@ -57,7 +56,7 @@
 
 ---  
   
-<h2> 🚀 &nbsp;Tools on which I have worked on :</h2>
+<h2> 🚀 &nbsp;Languages on which I have worked on :</h2>
 
 <p align="left">
   <a href="https://www.cprogramming.com/" rel="noreferrer">
@@ -77,6 +76,39 @@
   </a> &nbsp;
   <a href="https://www.python.org" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+</p>
+<br>
+<h2> 🛠️ &nbsp;Tools on which I have worked on :</h2>
+<p align="left">
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  </a> &nbsp;,&nbsp;
+
+  <!-- Google Colab -->
+  <a href="https://colab.research.google.com/" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google-colab" width="45" height="45"/>
+  </a> &nbsp;,&nbsp;
+
+  <!-- Jupyter Notebook -->
+  <a href="https://jupyter.org/" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter-notebook" width="45" height="45"/>
+  </a> &nbsp;,&nbsp;
+
+  <!-- Sublime Text -->
+  <a href="https://www.sublimetext.com/" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime-text" width="45" height="45"/>
+  </a> &nbsp;,&nbsp;
+
+  <!-- Localhost -->
+  <a href="http://localhost/" rel="noreferrer">
+      <img src="https://cdn-icons-png.flaticon.com/512/1930/1930112.png" alt="localhost" width="45" height="45"/>
+  </a> &nbsp;,&nbsp;
+
+  <!-- ChatGPT -->
+  <a href="https://chat.openai.com/" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="45" height="45"/>
   </a>
 </p>
 <br>
