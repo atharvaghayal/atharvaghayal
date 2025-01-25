@@ -40,9 +40,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/NPTEL-Python%20Certification-blue" alt="NPTEL Certification" />
   <img src="https://img.shields.io/badge/Udemy-MS%20Excel%20Advanced-orange" alt="Udemy Excel Advanced" />
-  <img src="https://img.shields.io/badge/VS%20Code-Prof.user-red" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-user-red" alt="VS Code" />
   <img src="https://img.shields.io/badge/Data%20Analyst-learner-darkblue" alt="Data Analyst" />
-  <img src="https://img.shields.io/badge/Chat%20GPT-learner-green" alt="Chat GPT" />
+  <img src="https://img.shields.io/badge/Chat%20GPT-user-green" alt="Chat GPT" />
 </p>
 <h2>📌 Contact</h2>
 <p>Email:</p>
