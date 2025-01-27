@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on my **[portfolio](https://github.com/atharvaghayal/portfolio)** site.
 - 🌱 I’m currently learning **Project Management Using MS excel & PowerBi tool**
-- 🎓 NPTEL Certifcation - By Professor from IIT Kharagpur - Programming with Python.
 - 🎓 Udemy Course certification - from https://www.udemy.com/ - Microsoft Excel Advanced.
 - 🐍 Python Projects.
 - 🌐 Web Development.
@@ -38,7 +37,6 @@
 </ul>
 <h2>🏆 Achievements</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Python%20Certification-blue" alt="NPTEL Certification" />
   <img src="https://img.shields.io/badge/Udemy-MS%20Excel%20Advanced-orange" alt="Udemy Excel Advanced" />
   <img src="https://img.shields.io/badge/VS%20Code-user-red" alt="VS Code" />
   <img src="https://img.shields.io/badge/Data%20Analyst-learner-darkblue" alt="Data Analyst" />
