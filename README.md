@@ -20,15 +20,15 @@
 <h2>📁 My Projects</h2>
 <ul>
   <li>Notes web development</li>
-  <li>Budget Tracker using ML algorithms</li>
   <li>number guessing game using MS excel.</li>
   <li>portfolio site(under development)</li>
 </ul>
 <h2>📁 Collaborated Projects</h2>
 <ul>
    <li>online book store web dev(Sem 3 SBL/WT Project)</li>
-   <li>Uni-Locator Sem-3 MiniProject.</li>
-  <li>Solar Panel Heat Detection Sem-4 MiniProject.</li>
+   <li>Uni-Locator | Sem-3 MiniProject.</li>
+  <li>Solar Panel Heat Detection | Sem-4 MiniProject.</li>
+  <li>Budget Tracker using ML algorithms | Sem-5 mini project.</li>
 </ul>
 <h2>📁 Upcoming Projects</h2>
 <ul>
