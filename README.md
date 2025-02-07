@@ -19,7 +19,7 @@
 </ul>
 <h2>📁 My Projects</h2>
 <ul>
-  <li>Notes web development</li>
+  <li>Notes web Application</li>
   <li>number guessing game using MS excel.</li>
   <li>portfolio site(under development)</li>
 </ul>
@@ -33,7 +33,7 @@
 <h2>📁 Upcoming Projects</h2>
 <ul>
    <li>to do list android application</li>
-  <li>SEM-6 Miniproject(topic-confidential)🤫</li>
+  <li>SEM-6 Miniproject</li>
 </ul>
 <h2>🏆 Achievements</h2>
 <p align="left">
