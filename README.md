@@ -67,19 +67,19 @@
 <p align="left">
   <a href="https://www.cprogramming.com/" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  </a> &nbsp;
+  </a> &nbsp;,&nbsp;
   <a href="https://www.w3.org/html/" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a> &nbsp;
+  </a> &nbsp;,&nbsp;
   <a href="https://www.java.com" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  </a> &nbsp;
+  </a> &nbsp;,&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a> &nbsp;
+  </a> &nbsp;,&nbsp;
   <a href="https://www.mysql.com/" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a> &nbsp;
+  </a> &nbsp;,&nbsp;
   <a href="https://www.python.org" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
