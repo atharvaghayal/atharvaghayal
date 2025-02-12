@@ -21,7 +21,8 @@
 <ul>
   <li>Notes web Application</li>
   <li>number guessing game using MS excel.</li>
-  <li>portfolio site(under development)</li>
+  <li>portfolio site(under construction)🚧</li>
+  <li>signup-login page connected with MS excel</li>
 </ul>
 <h2>📁 Collaborated Projects</h2>
 <ul>
