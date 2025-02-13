@@ -10,7 +10,6 @@
 - 🎓 Udemy Course certification - from https://www.udemy.com/ - Microsoft Excel Advanced.
 - 🐍 Python Projects.
 - 🌐 Web Development.
-- ☕ Java Programming.
 <h2>🛠️ Hobbies</h2>
 <ul>
   <li>Chess ♚♞♕</li>
@@ -23,10 +22,11 @@
   <li>number guessing game using MS excel.</li>
   <li>portfolio site(under construction)🚧</li>
   <li>signup-login page connected with MS excel</li>
+  <li>powerbi dashboard of Superstore_sales data.</li>
 </ul>
 <h2>📁 Collaborated Projects</h2>
 <ul>
-   <li>online book store web dev(Sem 3 SBL/WT Project)</li>
+   <li>online book store web app(Sem 3 SBL/WT Project)</li>
    <li>Uni-Locator | Sem-3 MiniProject.</li>
   <li>Solar Panel Heat Detection | Sem-4 MiniProject.</li>
   <li>Budget Tracker using ML algorithms | Sem-5 mini project.</li>
