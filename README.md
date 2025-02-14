@@ -123,4 +123,8 @@
   <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaghayal&size_weight=0.15&count_weight=0.5&layout=compact&theme=tokyonight">
 </p>
 <br>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvaghayal&style=for-the-badge&color=blue" alt=""/>
+</div>
+<br>
 <img src="githubfooter.gif" width="1500" height="200">
