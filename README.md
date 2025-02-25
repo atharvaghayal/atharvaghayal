@@ -86,7 +86,7 @@
   </a>
 </p>
 <br>
-<h2> 🛠️ &nbsp;Tools on which I have worked on :</h2>
+<h2> 🛠️ &nbsp;Tools i used :</h2>
 <p align="left">
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" rel="noreferrer">
