@@ -33,7 +33,7 @@
 </ul>
 <h2>📁 Upcoming Projects</h2>
 <ul>
-   <li>to do list android application</li>
+   <li>to do list android application.</li>
   <li>AI integrated BudgetBot  | Sem-6 Miniproject</li> # connected with Sem-5 mini project
 </ul>
 <h2>🏆 Achievements</h2>
