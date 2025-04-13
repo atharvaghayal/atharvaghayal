@@ -16,21 +16,6 @@
   <li>Writing travel blogs and documenting experiences.</li>
   <li>Exploring farmhouse stays and outdoor adventures.</li>
 </ul>
-<h2>📁 My Projects</h2>
-<ul>
-  <li>Notes web Application</li>
-  <li>number guessing game using MS excel.</li>
-  <li>portfolio site(under construction)🚧</li>
-  <li>signup-login page connected with MS excel</li>
-  <li>powerbi dashboard of Superstore_sales data.</li>
-</ul>
-<h2>📁 Collaborated Projects</h2>
-<ul>
-   <li>online book store web app(Sem 3 SBL/WT Project)</li>
-   <li>Uni-Locator | Sem-3 MiniProject.</li>
-  <li>Solar Panel Heat Detection | Sem-4 MiniProject.</li>
-  <li>Budget Tracker using ML algorithms | Sem-5 mini project.</li>
-</ul>
 <h2>📁 Upcoming Projects</h2>
 <ul>
    <li>to do list android application.</li>
@@ -43,15 +28,7 @@
   <img src="https://img.shields.io/badge/Data%20Analyst-learner-darkblue" alt="Data Analyst" />
   <img src="https://img.shields.io/badge/Chat%20GPT-user-green" alt="Chat GPT" />
 </p>
-<h2>📌 Contact</h2>
-<p>Email:</p>
-<ul>
-  <li><a href="mailto:atharva160504@gmail.com">atharva160504@gmail.com</a></li>
-  <li><a href="mailto:atharvaghayal@outlook.com">atharvaghayal@outlook.com</a></li>
-</ul>
-
 <h1 align="left">My Socials...</h1>
-
 <p align="left">
   <a href="https://www.instagram.com/_atharvaghayal/">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
