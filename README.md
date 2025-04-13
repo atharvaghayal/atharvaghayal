@@ -1,15 +1,6 @@
 ![Header GIF](readmebannergif.gif)
 <h3 align="left">Aspiring B.tech Engineer in field of AI and Data Science.</h3>
 <p>Live in Panvel,Raigad,MH</p>
-<h2>  &nbsp;My Interests...</h2>
-<p>In learning Advanced Python.</p>
-
-
-- 🔭 I’m currently working on my **[portfolio](https://github.com/atharvaghayal/portfolio)** site.
-- 🌱 I’m currently learning **Project Management Using MS excel & PowerBi tool**
-- 🎓 Udemy Course certification - from https://www.udemy.com/ - Microsoft Excel Advanced.
-- 🐍 Python Projects.
-- 🌐 Web Development.
 <h2>🛠️ Hobbies</h2>
 <ul>
   <li>Chess ♚♞♕</li>
@@ -21,26 +12,7 @@
    <li>to do list android application.</li>
   <li>AI integrated BudgetBot  | Sem-6 Miniproject</li> # connected with Sem-5 mini project
 </ul>
-<h2>🏆 Achievements</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/Udemy-MS%20Excel%20Advanced-orange" alt="Udemy Excel Advanced" />
-  <img src="https://img.shields.io/badge/VS%20Code-user-red" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Data%20Analyst-learner-darkblue" alt="Data Analyst" />
-  <img src="https://img.shields.io/badge/Chat%20GPT-user-green" alt="Chat GPT" />
-</p>
-<h1 align="left">My Socials...</h1>
-<p align="left">
-  <a href="https://www.instagram.com/_atharvaghayal/">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/atharva-ghayal/">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
-  </a>
-</p>
-
----  
-  
-<h2> 🚀 &nbsp;Languages on which I have worked on :</h2>
+<h2> 🚀 &nbsp;Languages and tools I have used :</h2>
 
 <p align="left">
   <a href="https://www.cprogramming.com/" rel="noreferrer">
@@ -62,8 +34,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
 </p>
-<br>
-<h2> 🛠️ &nbsp;Tools i used :</h2>
 <p align="left">
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" rel="noreferrer">
