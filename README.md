@@ -32,7 +32,7 @@
   </a> &nbsp;,&nbsp;
   <a href="https://www.python.org" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
+  </a>&nbsp;,&nbsp;
   <a href="https://flask.palletsprojects.com/" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="python-flask" width="45" height="45"/>
 </a>
