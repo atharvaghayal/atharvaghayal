@@ -69,5 +69,5 @@
   </a>
 </p>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvaghayal&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=atharvaghayal&style=plastic&color=blue" alt=""/>
 </div>
