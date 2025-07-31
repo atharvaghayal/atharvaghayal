@@ -10,7 +10,7 @@
 <h2>📁 Upcoming Projects</h2>
 <ul>
    <li>to do list android application.</li>
-  <li>AI integrated BudgetBot  | Sem-6 Miniproject</li> # connected with Sem-5 mini project
+  <li> SEM-7 mini project.</li>
 </ul>
 <h2> 🚀 &nbsp;Languages and tools I have used :</h2>
 
