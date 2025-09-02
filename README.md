@@ -33,7 +33,7 @@
   </a> &nbsp;,&nbsp;
   <a href="https://www.python.org" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
+  </a>.
 </p>
 <p align="left">
   <!-- VS Code -->
@@ -64,7 +64,7 @@
   <!-- ChatGPT -->
   <a href="https://chat.openai.com/" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="45" height="45"/>
-  </a>
+  </a>.
 </p>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvaghayal&style=for-the-badge&color=blue" alt=""/>
