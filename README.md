@@ -69,3 +69,6 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvaghayal&style=for-the-badge&color=blue" alt=""/>
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
