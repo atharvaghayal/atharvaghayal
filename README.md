@@ -9,8 +9,8 @@
 </ul>
 <h2>📁 Upcoming Projects</h2>
 <ul>
-   <li>to do list android application.</li>
-  <li> SEM-7 mini project.</li>
+   <li>Game dev</li>
+  <li>data analytics project</li>
   <li>chatbot</li>
 </ul>
 <h2> 🚀 &nbsp;Languages and tools I have used :</h2>
